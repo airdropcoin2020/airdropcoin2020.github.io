@@ -43,7 +43,7 @@ Value ETH: 0 Get 0.1 AC&nbsp;equivalent $0.01 (1 time / 1 wallet then 0.1 ETH to
 
 <strong>2. 2nd form of airdrop</strong><br />
 
-<a href="https://twitter.com" target="_blank" title="https://givelab.com/vfL4hO/airdrop-selfdrop-campaign">Click here: with Givelab giveaway</a></span>
+<a href="https://twitter.com" target="_blank" title="https://givelab.com/vfL4hO/airdrop-selfdrop-campaign">Click here: with Givelab giveaway</a>
 
 <h1 style="text-align: center;">&nbsp;</h1>
 
