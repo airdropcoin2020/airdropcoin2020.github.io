@@ -206,22 +206,25 @@ Distribution by 3rd party smart contract. Deadline: After 40 days from 09:24:34 
 
 <h5 style="text-align: left;"><span style="font-size:18px">Website: https://airdropcoin2020.github.io<br />
 <br />
-Dapp link: https://oneclickdapp.com/spark-topic<br />
+
+<h5 style="text-align: left;"><span style="font-size:20px">Website: <a href="https://airdropcoin2020.github.io" target="_blank">https://airdropcoin2020.github.io</a><br />
 <br />
-Airdrop: https://givelab.com/vfL4hO/airdrop-selfdrop-campaign<br />
+Dapp link: <a href="https://oneclickdapp.com/spark-topic" target="_self">https://oneclickdapp.com/spark-topic</a><br />
+<br />
+Airdrop: <a href="https://givelab.com/vfL4hO/airdrop-selfdrop-campaign" target="_blank">https://givelab.com/vfL4hO/airdrop-selfdrop-campaign</a><br />
 <br />
 <br />
-Telegram Channel: https://t.me/joinchat/AAAAAFAPRYSX69asM_Nzvw<br />
+Telegram Channel: <a href="https://t.me/joinchat/AAAAAFAPRYSX69asM_Nzvw" target="_blank">https://t.me/joinchat/AAAAAFAPRYSX69asM_Nzvw</a><br />
 <br />
-Telegram Group: https://t.me/AirdropCoin_2020 &nbsp;<br />
+Telegram Group: <a href="https://t.me/AirdropCoin_2020" target="_blank">https://t.me/AirdropCoin_2020</a> &nbsp;<br />
 <br />
 Facebook Channel:<br />
-https://fb.me/AirdropCoinChannel<br />
+<a href="https://fb.me/AirdropCoinChannel" target="_blank">https://fb.me/AirdropCoinChannel</a><br />
 <br />
-https://m.me/AirdropCoinChannel?fbclid=IwAR3CGMKcXd45Z2k50OS-c9kOtRCYWNib7Z7fLiNaQecc3DTtucYON-lhpKg<br />
+<a href="https://m.me/AirdropCoinChannel?fbclid=IwAR3CGMKcXd45Z2k50OS-c9kOtRCYWNib7Z7fLiNaQecc3DTtucYON-lhpKg" target="_blank">https://m.me/AirdropCoinChannel?fbclid=IwAR3CGMKcXd45Z2k50OS-c9kOtRCYWNib7Z7fLiNaQecc3DTtucYON-lhpKg</a><br />
 <br />
 <br />
-Facebook Group: https://www.facebook.com/groups/1457556831080158</span></h5>
+Facebook Group: <a href="https://www.facebook.com/groups/1457556831080158" target="_blank">https://www.facebook.com/groups/1457556831080158</a></span></h5>
 
 <h1 style="text-align: center;">&nbsp;</h1>
 
