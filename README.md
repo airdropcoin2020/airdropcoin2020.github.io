@@ -204,6 +204,28 @@ Manual distribution after 24h. </span></strong></div>
 <h2 style="text-align: left;"><br />
 Distribution by 3rd party smart contract. Deadline: After 40 days from 09:24:34 UTC Tuesday, February 26, 2020</h2>
 
+<h5 style="text-align: left;"><span style="font-size:18px">Website: https://airdropcoin2020.github.io<br />
+<br />
+Dapp link: https://oneclickdapp.com/spark-topic<br />
+<br />
+Airdrop: https://givelab.com/vfL4hO/airdrop-selfdrop-campaign<br />
+<br />
+<br />
+Telegram Channel: https://t.me/joinchat/AAAAAFAPRYSX69asM_Nzvw<br />
+<br />
+Telegram Group: https://t.me/AirdropCoin_2020 &nbsp;<br />
+<br />
+Facebook Channel:<br />
+https://fb.me/AirdropCoinChannel<br />
+<br />
+https://m.me/AirdropCoinChannel?fbclid=IwAR3CGMKcXd45Z2k50OS-c9kOtRCYWNib7Z7fLiNaQecc3DTtucYON-lhpKg<br />
+<br />
+<br />
+Facebook Group: https://www.facebook.com/groups/1457556831080158</span></h5>
+
+<h1 style="text-align: center;">&nbsp;</h1>
+
+
 <h1 style="text-align: center;">&nbsp;</h1>
 
 <p data-v-33dd8c11=""><strong>&copy; 2020 AirdropCoin. All Rights reserved</strong></p>
