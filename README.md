@@ -18,7 +18,7 @@ Airdrop Coin is used to advertise other airdrops.<br />
 <br />
 AC holders receive a staggering price increase from the limited number of ACs, you can get ACs from Airdrop Coin promotions and other campaigns from Airdrop partners, you can get 0.1 AC from New wallet, get AC from Selfdrop<br />
 <br />
-Airfrop Coin works in conjunction with the Uniswap factory.<br />
+Airdrop Coin works in conjunction with the Uniswap factory.<br />
 Join liquidity pools to collect fees on ETH-AC pairs, ETH-ERC20 pairs and more, ...<br />
 <br />
 Markets are defined as ETH &lt;&gt; ERC20, ERC20 &lt;&gt; ETH, or ERC20 &lt;&gt; ERC20 pairs<br />
