@@ -206,13 +206,4 @@ Distribution by 3rd party smart contract. Deadline: After 40 days from 09:24:34 
 
 <h1 style="text-align: center;">&nbsp;</h1>
 
-<div style="text-align: center;">WEBSITE IS UPDATED !<br />
-<br />
-If you can&#39;t find this page<br />
-It looks like you&#39;re trying to reach a page that was built by Github&nbsp;but is update.&nbsp;<br />
-We come back soon !<br />
-<br />
-Join Telegram: &nbsp;https://t.me/joinchat/AAAAAEofRKXOU7kODnCl6w</div>
-
-
 <p data-v-33dd8c11=""><strong>&copy; 2020 AirdropCoin. All Rights reserved</strong></p>
