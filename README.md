@@ -194,12 +194,12 @@ Manual distribution after 24h. </span></strong></div>
 &nbsp;
 
 <h2 style="text-align: center;"><br />
-<span style="font-size:32px">2020 March: Our Airdrop &amp; Selpdrop Is Live</span></h2>
+<span style="font-size:32px">2020 March: Our Airdrop &amp; Selfdrop Is Live</span></h2>
 
 <h2>&nbsp;</h2>
 
 <h2 style="text-align: center;"><br />
-<span style="font-size:32px">2020 (Early)&nbsp;April:&nbsp;Our Airdrop &amp; Selpdrop Is Live</span></h2>
+<span style="font-size:32px">2020 (Early)&nbsp;April:&nbsp;Our Airdrop &amp; Selfdrop Is Live</span></h2>
 
 <h2 style="text-align: left;"><br />
 Distribution by 3rd party smart contract. Deadline: After 40 days from 09:24:34 UTC Tuesday, February 26, 2020</h2>
