@@ -3,7 +3,7 @@
 
 <h1 style="text-align: center;">Information</h1>
 <span style="font-size:16px">+&nbsp;Total supply: 21,000,000 AC</span><br />
-+&nbsp;Circulate : 2,100,000<br />
++&nbsp;Circulate : 4,200,000<br />
 +&nbsp;Token Name: AIRDROP COIN<br />
 + Token Symbol: AC<br />
 + Token Type: ERC20<br />
@@ -122,7 +122,7 @@ For all information that AC is listed on any centralized exchange platform.<br /
 It needs our official confirmation and notification to the community.<br />
 In this case, we will not be responsible</span><br />
 <br />
-1. Ethermium:&nbsp;<a href="https://ethermium.com/t/0x9E115f7D5625b111Fee987DbEcB35DE2257157b4" target="_blank" title="AC Ethermium Dex Trade For Pc Link">https://ethermium.com/t/0x9E115f7D5625b111Fee987DbEcB35DE2257157b4</a><br />
+1. Ethermium:&nbsp;<a href="https://ethermium.com/t/0x9E115f7D5625b111Fee987DbEcB35DE2257157b4" target="_blank" title="AC Ethermium Dex Trade For Pc Link">https://ethermium.com/t/AIRDROP%20COIN-AC</a><br />
 <br />
 2. Bamboorelay:&nbsp;<a href="https://bamboorelay.com/trade/AC-WETH" target="_blank" title="AC Bamboorelay Dex Trade For Pc Link">https://bamboorelay.com/trade/AC-WETH</a><br />
 &nbsp;
