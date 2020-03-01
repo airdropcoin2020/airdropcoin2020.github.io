@@ -67,7 +67,6 @@ Round 2: &gt;= 1&nbsp; &nbsp; Get 2700 AC +&nbsp; &nbsp;2 %&nbsp; AC bonus. Only
 Then you do not receive a bonus</span><br />
 <br />
 <br />
-<span style="font-size:24px"><img data-file-id="1248935" height="610" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/9185b966-ff70-4efa-a15e-646f0c1bb177.png" style="border: 0px  ; width: 1006px; height: 610px; margin: 0px;" width="1006" /></span>
 
 <h1 style="text-align: center;">&nbsp;</h1>
 
