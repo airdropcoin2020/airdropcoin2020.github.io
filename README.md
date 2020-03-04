@@ -71,8 +71,7 @@ Then you do not receive a bonus</span><br />
 
 <span style="font-size:24px">Test on Ropsten network: Please switch network to&nbsp;Ropsten &amp; <a href="https://oneclickdapp.com/ginger-wolf" target="_blank" title="https://oneclickdapp.com/ginger-wolf">Click here</a></span>
 
-<img data-file-id="1248939" height="657" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/a1447e83-823b-4fa6-a02b-c0c2854f2326.png" style="border: 0px  ; width: 1006px; height: 657px; margin: 0px;" width="1006" /><br />
-<span style="font-size:18px">
+<img data-file-id="1260707" height="535" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/72b84cb3-b127-43d6-9fe4-e886e76048f2.png" style="border: 0px  ; width: 1124px; height: 535px; margin: 0px;" width="1124" />
 	
 <h5 style="text-align: center;"><strong>TOKEN SALES<br />
 <br />
