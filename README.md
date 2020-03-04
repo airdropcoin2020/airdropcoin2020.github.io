@@ -54,8 +54,7 @@ Value ETH: 0 Get 0.1 AC&nbsp;equivalent $0.01 (1 time / 1 wallet then 0.1 ETH to
 <br />
 Selfdrop helps the development team, advisors have more funds to work best. Selfdrop helps Airdrop Coin to increase liquidity on Uniswap factory</span>
 
-<img data-file-id="1248939" height="657" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/a1447e83-823b-4fa6-a02b-c0c2854f2326.png" style="border: 0px  ; width: 1006px; height: 657px; margin: 0px;" width="1006" /><br />
-<span style="font-size:18px">Step 1<br />
+Step 1<br />
 Copy this link &amp; paste it into the Trust wallet browser&nbsp;:&nbsp;<a href="https://oneclickdapp.com/spark-topic/" target="_blank" title="Dapp link To Selfdrop">https://oneclickdapp.com/spark-topic/</a><br />
 <br />
 Step 2<br />
@@ -68,6 +67,9 @@ Then you do not receive a bonus</span><br />
 <br />
 <br />
 
+<img data-file-id="1248939" height="657" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/a1447e83-823b-4fa6-a02b-c0c2854f2326.png" style="border: 0px  ; width: 1006px; height: 657px; margin: 0px;" width="1006" /><br />
+<span style="font-size:18px">
+	
 <h5 style="text-align: center;"><strong>TOKEN SALES<br />
 <br />
 Start:&nbsp;09:24:34 UTC Tuesday, 26&nbsp;February 2020</strong></h5>
