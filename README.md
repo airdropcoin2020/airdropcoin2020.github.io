@@ -113,8 +113,7 @@ Start:&nbsp;09:24:34 UTC Tuesday, 26&nbsp;February 2020</strong></h5>
 3% Airdrop: 630,000 AC
 <h1 style="text-align: center;">&nbsp;</h1>
 
-A. DappReview />
-&nbsp;</div>
+A. DappReview
 
 <div style="text-align: center;"><span style="font-size:24px">Congratulations !</span></div>
 
