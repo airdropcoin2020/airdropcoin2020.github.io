@@ -135,6 +135,20 @@ B.&nbsp;Dapponline</span><br />
 <br />
 <img data-file-id="1259763" height="906" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/648597bf-834d-40cf-b83e-f6e3bcfd6bbc.jpg" style="border: 0px  ; width: 626px; height: 906px; margin: 0px;" width="626" /></span></div>
 
+<h1 style="text-align: left;"><br />
+C. Stateofthedapps</h1>
+
+<h1 style="text-align: center;"><span style="font-size:24px">Congratulations !</span></h1>
+
+<h1 style="text-align: left;"><span style="font-size:24px">Airdrop Coin Dapp has been listed here on Stateofthedapps at page:<br />
+<br />
+https://www.stateofthedapps.com/dapps/airdropcoin</span></h1>
+
+<h1 style="text-align: center;"><br />
+<img data-file-id="1260659" height="1037" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/22903069-5160-4213-ab31-00b68ef20cd0.jpg" style="border: 0px  ; width: 640px; height: 1037px; margin: 0px;" width="640" /></h1>
+
+<h1>&nbsp;</h1>
+
 <h1 style="text-align: center;">DEX EXCHANGE (Not yet verify)</h1>
 <span style="font-size:18px">We need to meet some criteria to be officially listed on decentralized exchange platforms.<br />
 For all information that AC is listed on any centralized exchange platform.<br />
