@@ -68,8 +68,6 @@ Then you do not receive a bonus</span><br />
 <br />
 <br />
 
-<h1 style="text-align: center;">&nbsp;</h1>
-
 <h5 style="text-align: center;"><strong>TOKEN SALES<br />
 <br />
 Start:&nbsp;09:24:34 UTC Tuesday, 26&nbsp;February 2020</strong></h5>
@@ -111,9 +109,30 @@ Start:&nbsp;09:24:34 UTC Tuesday, 26&nbsp;February 2020</strong></h5>
 80% Selfdrop + Bonus: 16,800,000 AC<br />
 10% Founders and Team: 2,100,000 AC<br />
 1% Advisors: 210,000 AC<br />
-1% Selfdrop with 0 ETH: 210,000 AC<br />
+1% Airdrop with 0 ETH: 210,000 AC<br />
 3% Airdrop: 630,000 AC
 <h1 style="text-align: center;">&nbsp;</h1>
+
+A. DappReview</span><br />
+&nbsp;</div>
+
+<div style="text-align: center;"><span style="font-size:24px">Congratulations !</span></div>
+
+<div style="text-align: left;"><span style="font-size:24px">Airdrop coin&nbsp;Dapp has been listed here on DappReview at page: <a href="https://dapp.review/dapp/12787" target="_blank" title="https://dapp.review/dapp/12787">https://dapp.review/dapp/12787</a><br />
+<br />
+<br />
+<img data-file-id="1259771" height="626" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/77e527ea-5dcd-4c00-8210-cd397430c2f8.jpg" style="border: 0px  ; width: 1280px; height: 626px; margin: 0px;" width="1280" /><br />
+<br />
+B.&nbsp;Dapponline</span><br />
+&nbsp;</div>
+
+<div style="text-align: center;"><span style="font-size:24px">Congratulations !</span></div>
+
+<div style="text-align: left;"><span style="font-size:24px">Airdrop Coin Dapp has been listed here on Dapponline at page:<br />
+<br />
+<a href="https://dapponline.io/dapp-detail/3404" target="_blank" title="https://dapponline.io/dapp-detail/3404">https://dapponline.io/dapp-detail/3404</a><br />
+<br />
+<img data-file-id="1259763" height="906" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/648597bf-834d-40cf-b83e-f6e3bcfd6bbc.jpg" style="border: 0px  ; width: 626px; height: 906px; margin: 0px;" width="626" /></span></div>
 
 <h1 style="text-align: center;">DEX EXCHANGE (Not yet verify)</h1>
 <span style="font-size:18px">We need to meet some criteria to be officially listed on decentralized exchange platforms.<br />
