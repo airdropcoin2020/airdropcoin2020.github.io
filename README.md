@@ -67,7 +67,7 @@ Then you do not receive a bonus</span><br />
 <br />
 <br />
 
-<h1><img data-file-id="1260683" height="569" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/fa67fccd-963f-4d21-9a7f-d279d3db4dec.png" style="border: 0px  ; width: 900px; height: 569px; margin: 0px;" width="900" /></h1>
+<img data-file-id="1260695" height="555" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/052189ae-2c04-472d-8595-183b32133956.png" style="border: 0px  ; width: 901px; height: 555px; margin: 0px;" width="901" />
 
 <span style="font-size:24px">Test on Ropsten network: Please switch network to&nbsp;Ropsten &amp; <a href="https://oneclickdapp.com/ginger-wolf" target="_blank" title="https://oneclickdapp.com/ginger-wolf">Click here</a></span>
 
