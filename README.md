@@ -125,7 +125,8 @@ A. DappReview
 <div style="text-align: left;"><span style="font-size:24px">Airdrop coin&nbsp;Dapp has been listed here on DappReview at page: <a href="https://dapp.review/dapp/12787" target="_blank" title="https://dapp.review/dapp/12787">https://dapp.review/dapp/12787</a><br />
 <br />
 <br />
-<h1><img data-file-id="1265275" height="1037" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/33a3d7e2-f5f6-430c-b24c-d0042f2d5fe2.jpg" style="border: 0px  ; width: 640px; height: 1037px; margin: 0px;" width="640" /></h1> /><br />
+<h1><img data-file-id="1265299" height="651" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/f1e9060d-c636-4975-bea8-a1ffe2bf5d54.png" style="border: 0px  ; width: 1365px; height: 651px; margin: 0px;" width="1365" /></h1>
+<br />
 <br />
 B.&nbsp;Dapponline</span><br />
 &nbsp;</div>
@@ -144,8 +145,7 @@ C. Stateofthedapps</h1>
 <h1 style="text-align: center;"><span style="font-size:24px">Congratulations !</span></h1>
 <h1><a href="https://www.stateofthedapps.com/dapps/airdropcoin" target="_blank" title="https://www.stateofthedapps.com/dapps/airdropcoin">https://www.stateofthedapps.com/dapps/airdropcoin</a></h1>
 
-<h1 style="text-align: center;"><br />
-<img data-file-id="1260659" height="1037" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/22903069-5160-4213-ab31-00b68ef20cd0.jpg" style="border: 0px  ; width: 640px; height: 1037px; margin: 0px;" width="640" /></h1>
+<h1><img data-file-id="1265307" height="657" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/be4c3285-c6a3-429d-9afd-fd160b76f3c3.png" style="border: 0px  ; width: 1351px; height: 657px; margin: 0px;" width="1351" /></h1>
 
 <h1>&nbsp;</h1>
 
