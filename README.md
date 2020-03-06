@@ -125,7 +125,7 @@ A. DappReview
 <div style="text-align: left;"><span style="font-size:24px">Airdrop coin&nbsp;Dapp has been listed here on DappReview at page: <a href="https://dapp.review/dapp/12787" target="_blank" title="https://dapp.review/dapp/12787">https://dapp.review/dapp/12787</a><br />
 <br />
 <br />
-<img data-file-id="1259771" height="626" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/77e527ea-5dcd-4c00-8210-cd397430c2f8.jpg" style="border: 0px  ; width: 1280px; height: 626px; margin: 0px;" width="1280" /><br />
+<h1><img data-file-id="1265275" height="1037" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/33a3d7e2-f5f6-430c-b24c-d0042f2d5fe2.jpg" style="border: 0px  ; width: 640px; height: 1037px; margin: 0px;" width="640" /></h1> /><br />
 <br />
 B.&nbsp;Dapponline</span><br />
 &nbsp;</div>
