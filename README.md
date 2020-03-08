@@ -43,7 +43,14 @@ Value ETH: 0 Get 0.1 AC&nbsp;equivalent $0.01 (1 time / 1 wallet then 0.1 ETH to
 
 <strong>2. 2nd form of airdrop</strong><br />
 
-<a class="e-widget no-button" href="https://gleam.io/cPJ0o/airdrop-selfdrop-campaign" rel="nofollow">+ AIRDROP & SELFDROP CAMPAIGN</a>
+<div style="text-align: center">
+  <a style="background-color: #1abc9c; color: white; text-decoration: none;
+  font-size: 16px; padding: 4px 12px; border-radius: 4px; line-height: 20px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center"
+    href="https://gleam.io/cPJ0o/airdrop-selfdrop-campaign?amp" target="_blank">
+    Enter Competition
+  </a>
+</div>
 
 
 <h1 style="text-align: center;">&nbsp;</h1>
