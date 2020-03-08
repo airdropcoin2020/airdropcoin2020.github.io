@@ -46,8 +46,6 @@ Value ETH: 0 Get 0.1 AC&nbsp;equivalent $0.01 (1 time / 1 wallet then 0.1 ETH to
 <a class="e-widget no-button" href="https://gleam.io/cPJ0o/airdrop-selfdrop-campaign" rel="nofollow">+ AIRDROP & SELFDROP CAMPAIGN</a>
 
 
-<a href="https://givelab.com/vfL4hO/airdrop-selfdrop-campaign" target="_blank" title="https://givelab.com/vfL4hO/airdrop-selfdrop-campaign"> + Click here: with Givelab giveaway</a>
-
 <h1 style="text-align: center;">&nbsp;</h1>
 
 <h1 style="text-align: center;">SELFDROP</h1>
