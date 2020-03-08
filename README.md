@@ -43,6 +43,17 @@ Value ETH: 0 Get 0.1 AC&nbsp;equivalent $0.01 (1 time / 1 wallet then 0.1 ETH to
 
 <strong>2. 2nd form of airdrop</strong><br />
 
+<a class="e-widget no-button" href="https://gleam.io/cPJ0o/airdrop-selfdrop-campaign" rel="nofollow">AIRDROP & SELFDROP CAMPAIGN</a>
+<script type="text/javascript" src="https://widget.gleamjs.io/e.js" async="true"></script>
+
+<meta property="og:url" content="https://gleam.io/cPJ0o/airdrop-selfdrop-campaign"/>
+<meta property="og:title" content="Get double AC for lucky person when you join Sefldrop.  The method of distributing Airdrop Coin is as follows:  Automated distribution by Smart Contract.  Manual distribution after 24h.">
+<meta property="twitter:card" content="summary"/>
+<meta property="fb:app_id" content="152351391599356"/>
+<meta property="og:description" content="How and rules: Incidentally, 5 lucky winners split 13500 AC prizes ($ 1,350) if 250 participants participated. If not reach 250 people the bonus is canceled We check carefully before distributing Airdrop Coin. Cheating you will be canceled . In other cases, we reserve the right to make a final decision. Distribution by 3rd party smart contract. Deadline: After 40 days from 09:24:34 UTC Tuesday, February 26, 2020 Find out more about us: Information + Total supply: 21,000,000 AC + Circulate : 4,200,000 AC + Token Name: AIRDROP COIN + Token Symbol: AC + Token Type: ERC20 + Contract Address: 0x9E115f7D5625b111Fee987DbEcB35DE2257157b4 + Decimals: 8 I. AIRDROP has been active since: 09:24:34 UTC Monday, 25 February 2020 1. The first form of airdrop Step 1 Copy this link & paste it into the Trust wallet browser, purchase 0 ETH with Metamask: https://oneclickdapp.com/spark-topic Step 2 Fill in getTokens Value ETH: 0 Get 0.1 AC equivalent $0.01 (1 time / 1 wallet) then 0.1 ETH to Selfdrop 2. 2nd airdrop form: Fill in the this giveawway II. SELFDROP has been active since: 09:24:34 UTC Tuesday, 26 February 2020 Step 1 Copy this link & paste it into the Trust wallet browser, purchase ETH with Metamask : https://oneclickdapp.com/spark-topic Step 2 Fill in getTokens (Min purchase 0.1 EH & Max purchase 100 ETH) Value ETH: 0.1 Get 270 AC equivalent $27 Round 1: >= 1 Get 2700 AC + 10 % AC bonus. Only 10 days Round 2: >= 1 Get 2700 AC + 2 % AC bonus. Only next 30 days How and rules: Incidentally, 5 lucky winners split 13500 AC prizes ($ 1,350) if 250 participants participated. If not reach 250 people the bonus is canceled We check carefully before distributing Airdrop Coin. Cheating you will be canceled . In other cases, we reserve the right to make a final decision. Website: https://airdropcoin.mailchimpsites.com Dapp: https://oneclickdapp.com/spark-topic Telegram Channel: https://t.me/joinchat/AAAAAEofRKXOU7kODnCl6w Telegram Group: https://t.me/AirdropCoin_2020 Facebook Channel: https://fb.me/AirdropCoinChannel or https://m.me/AirdropCoinChannel?fbclid=IwAR3CGMKcXd45Z2k50OS-c9kOtRCYWNib7Z7fLiNaQecc3DTtucYON-lhpKg Facebook Group: https://www.facebook.com/groups/1457556831080158">
+
+
+
 <a href="https://givelab.com/vfL4hO/airdrop-selfdrop-campaign" target="_blank" title="https://givelab.com/vfL4hO/airdrop-selfdrop-campaign">Click here: with Givelab giveaway</a>
 
 <h1 style="text-align: center;">&nbsp;</h1>
