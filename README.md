@@ -41,7 +41,7 @@ Fill in getTokens<br />
 Value ETH: 0 Get 0.1 AC&nbsp;equivalent $0.01 (1 time / 1 wallet then 0.1 ETH to Selfdrop)<br />
 <img data-file-id="1248935" height="610" src="https://mcusercontent.com/96518df4e8641bdc5e54141bd/images/9185b966-ff70-4efa-a15e-646f0c1bb177.png" style="border: 0px initial ; width: 1006px; height: 610px; margin: 0px;" width="1006" /></span>
 
-2.<a class="e-widget" href="https://gleam.io/cPJ0o/airdrop-selfdrop-campaign" rel="nofollow">AIRDROP & SELFDROP CAMPAIGN</a>
+<a class="e-widget" href="https://gleam.io/cPJ0o/airdrop-selfdrop-campaign" rel="nofollow">2. AIRDROP & SELFDROP CAMPAIGN</a>
 <script type="text/javascript" src="https://widget.gleamjs.io/e.js" async="true"></script>
 
 <h1 style="text-align: center;">&nbsp;</h1>
